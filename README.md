@@ -1,6 +1,5 @@
-from pathlib import Path
-
-content = r"""# Big-Tech DSA Placement Preparation Roadmap
+# DSA-Revision
+DSA revision for placements
 
 ## Goal
 
